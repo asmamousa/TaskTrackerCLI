@@ -1,2 +1,6 @@
 /.idea/*
 /.venv/*
+tasks.json
+token.txt
+__pycache__/*
+.DS_Store
